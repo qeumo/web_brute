@@ -1,5 +1,5 @@
 # Web brute
-###### Start file- brute.py (python3)
+###### Start file - brute.py (python3)
 
 #### Содержание
 - **brute.py** - перебор пароля по базе
